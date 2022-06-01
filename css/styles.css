@@ -72,9 +72,9 @@ p {
 }
 
 .code-img {
-  width: 30%;
+  width: 40%;
   float: left;
-  padding-right: 30px;
+  padding-right: 50px;
 }
 
 .maths-img {
@@ -92,6 +92,11 @@ p {
   width: 50%;
   margin: 100px auto;
   text-align: left;
+}
+
+.skill-description {
+  padding-left: 10%;
+  margin-left: 40%;
 }
 
 .bio {
